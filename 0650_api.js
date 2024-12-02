@@ -1,5 +1,5 @@
 async function getResponce() {
-    // let responce = await fetch("https://my-json-server.typicode.com/typicode/demo/posts")
+    // let responce = await fetch("./my_shop/shop.json")
     //let responce = await fetch("./my_shop/shop.json")
     //let responce = await fetch("./my_shop/shop.json")
 //    let responce = await fetch("./my_shop/shop.json")
