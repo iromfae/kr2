@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "title": "Товар 1",
+    "title": "Anastasia Beverly Hills Glam To Go Mini Palette",
     "vendor_code": "111",
-    "description": "Описание 1",
-    "price": 100,
-    "img": "../../images/uso_001.jpg"
+    "description": "Компактная палетка ANASTASIA BEVERLY HILLS включает 8 теней и пигментов для макияжа: PRETTY, DAWN, SUNBURST, SOFTY, SUNSET, FIREWORKS, ROSEY и DUSK.",
+    "price": 2635,
+    "img": "https://pcdn.goldapple.ru/p/p/19000164712/web/696d674d61696e8dc840076023b8ffullhd.webp"
   },
   {
     "id": "2",
