@@ -25,52 +25,52 @@
   },
   {
     "id": "4",
-    "title": "Товар 4",
+    "title": "PUSY brow fix gel",
     "vendor_code": "444e",
-    "description": "Описание 4",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_004.jpg"
+    "description": "Прозрачный гель для бровей с эффектом ламинирования Pusy Brow Fix уложит даже самые непослушные волоски",
+    "price": 700,
+    "img": "https://pcdn.goldapple.ru/p/p/19000062318/web/696d674d61696e8dc83ddb3323efbfullhd.webp"
   }
   ,
   {
     "id": "5",
-    "title": "Товар 5",
+    "title": "MakeUp Revolution FOREVER FLAWLESS Butterfly",
     "vendor_code": "4445e",
-    "description": "Описание 6",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+    "description": "18 насыщенных пигментом оттенков с матовым и сияющим финишем",
+    "price": 1500,
+    "img": "https://pcdn.goldapple.ru/p/p/19000011646/web/696d674d61696e8dc83ccd0fa13d6fullhd.webp"
   },
   {
     "id": "6",
-    "title": "Товар 6",
+    "title": "Divage BEAUTY KILLER",
     "vendor_code": "4446e",
-    "description": "Описание 6",
-    "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_1.png"
+    "description": "Пудра Beauty Killer – абсолютный must have, на все сезоны!",
+    "price": 500,
+    "img": "https://pcdn.goldapple.ru/p/p/58347600003/web/696d674d61696e5f65626533323465623664316334613535623265623535643234643961353165638dca1b90b2739aafullhd.webp"
   },
   {
     "id": "7",
-    "title": "Товар 7",
+    "title": "DARLING* Mink Coat",
     "vendor_code": "4447e",
-    "description": "Описание 7",
-    "price": 700,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_2.png"
+    "description": "Подчеркивает глаза объемными, нескончаемо длинными ресницами",
+    "price": 1000,
+    "img": "https://pcdn.goldapple.ru/p/p/19000125948/web/696d674d61696e8dc83f037169d8bfullhd.webp"
   },
   {
     "id": "8",
-    "title": "Товар 8",
+    "title": "VIVIENNE SABO Jolies Levres",
     "vendor_code": "4448e",
-    "description": "Описание 8",
-    "price": 800,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_3.png"
+    "description": "Карандаши для губ Jolies Levres благодаря насыщенному цвету очень легки в использовании",
+    "price": 200,
+    "img": "https://pcdn.goldapple.ru/p/p/19000140951/web/696d674d61696e5f30643436353535636566393734636433383233386238386438616635656566398dca043492e035cfullhd.webp"
   },
   {
     "id": "9",
-    "title": "Товар 9",
+    "title": "Catrice Cheek Lover Marbled Blush",
     "vendor_code": "444e",
-    "description": "Описание 9",
+    "description": "Мраморные румяна Cheek Lover Marbled Blush от CATRICE - идеальный способ, чтобы добиться свежести и натурального румянца кожи",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/1_4.png"
+    "img": "https://pcdn.goldapple.ru/p/p/19000166903/web/696d674d61696e8dc83fc0bdafa43fullhd.webp"
   }
   ,
   {
